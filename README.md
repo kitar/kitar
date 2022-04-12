@@ -1,6 +1,12 @@
-### やあ 👋
+### 👋こんにちは, I’m Satoshi Kita.
 
-#### Webエンジニア・プロダクト開発者。小さな会社でWebサービスを作っています。
+#### Web Engineer and Product Developer. Building web apps in a small company.
+
+##### Now
+
+- 🚀 I run [SlidePack](https://slidepack.io) at Qitar LLC.
+- ✨ I also develop and run various business apps and web services for our customers.
+- 💻 I maintain [kitar/laravel-dynamodb](https://github.com/kitar/laravel-dynamodb).
 
 ##### 今
 
@@ -8,15 +14,33 @@
 - ✨ お客さん向けの業務システムやWebサービスも色々運営しています
 - 💻 [kitar/laravel-dynamodb](https://github.com/kitar/laravel-dynamodb) を書いてます
 
+##### Before
+
+- 🤝 Founded Qitar LLC to expand SlidePack and other products, which I had operated solely. (2018-)
+- 🧑‍🤝‍🧑 Co-founded PopInSight (now part of Members Inc.) and developed user testing services. (2013-2017)
+- ⚙️ I automated software testing, and started a technical support team at beBit. (2008-2012)
+- 🗿 Further back in the day...
+  - 👶 Born in Kanagawa (1985). During my childhood, I went back and forth between Japan and African countries.
+  - ⛩️ Since I returned, I moved around the Kansai area a number of times, but my heart will always be at Kyoto.
+  - 💼 The first service I was paid for, was the automation of submissions to search engines and ad spaces.
+ (2000)
+
 ##### これまで
 
 - 🤝 個人事業として運営していたSlidePackなどを拡大するため、Qitar LLCを設立しました (2018-)
 - 🧑‍🤝‍🧑 PopInSight（今は株式会社メンバーズの傘下）を共同創業し、ユーザテストのサービスを開発していました (2013-2017)
 - ⚙️ beBitでソフトウェアテストの自動化や、テクニカルサポートチームの立ち上げを行いました (2008-2012)
-- 🗿 もっと昔は…
+- 🗿 もっと昔は...
   - 👶 神奈川で生まれ(1985)、幼少期はアフリカ諸国に行ったり来たりしていました
   - ⛩️ 日本に戻ってからは関西を転々と…したものの、心の故郷は京都にあります
   - 💼 はじめて販売したサービスは検索エンジンや各種広告枠への投稿を自動化するものです (2000)
+
+##### Others
+
+- 🤟 I'm a huge fan of Laravel, Tailwind CSS, Inertia.js
+- 💡 I often start developing services for myself or people close to me.
+- 🌱 Like how GitHub expanded the world, I would like to contribute to a future, in which the world is enriched by people supporting each other little by little.
+- 🎺 I used to play jazz trumpet. I still listen to jazz a lot.
 
 ##### ほか
 
@@ -29,21 +53,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kitar.svg?style=social)](https://twitter.com/kitar)
 
-##### Qiita
+##### What I've made
 
-<div>
-<ul><li>
-<p><a href="http://qiita.com/kitar"><img src="https://qiita-badge.apiapi.app/s/kitar/posts.svg" alt="My Qiita posts"></a>
-<a href="http://qiita.com/kitar"><img src="https://qiita-badge.apiapi.app/s/kitar/contributions.svg" alt="My Qiita contributions"></a>
-<a href="http://qiita.com/kitar"><img src="https://qiita-badge.apiapi.app/s/kitar/followers.svg" alt="My Qiita followers"></a></p>
-  </li></ul>
-</div>
-
-##### 作ったもの
-
-- リモートユーザーテストプラットフォーム (2013)
+- Remote User Testing Platform (2013)
   - ![image](https://user-images.githubusercontent.com/157844/155881578-f34683c8-8c88-4c7b-a7e2-e44a96d28a22.png)
-- ユーザーテストExpress (2015)
+- Self-service Remote User Testing Service (2015)
   - ![image](https://user-images.githubusercontent.com/157844/155881644-e392f528-9947-484b-b1cb-55dc6a90442f.png)
 - SlidePack API (2020)
   - ![image](https://user-images.githubusercontent.com/157844/155881732-11ddc50d-da35-4172-a51b-0b4933bfb087.png)
