@@ -40,14 +40,14 @@
 - 🤟 I'm a huge fan of Laravel, Tailwind CSS, Inertia.js
 - 💡 I often start developing services for myself or people close to me.
 - 🌱 Like how GitHub expanded the world, I would like to contribute to a future, in which the world is enriched by people supporting each other little by little.
-- 🎺 I used to play jazz trumpet. I still listen to jazz a lot.
+- 🎺 I play jazz trumpet.
 
 ##### ほか
 
 - 🤟 Laravel, Tailwind CSS, Inertia.jsを好んで使います
 - 💡 サービス開発は、自分自身や身近な人のためにはじめることが多いです
 - 🌱 GitHubで広がる世界のように、ビジネスでも、お互いに少しずつ支え合うことで豊かになっていく未来に貢献したいです
-- 🎺 ジャズトランペットを吹いていました。今でもジャズはよく聴きます
+- 🎺 ジャズトランペットを吹いています
 
 ##### Twitter
 
