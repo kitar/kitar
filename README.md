@@ -2,17 +2,21 @@
 
 #### Web Engineer and Product Developer. Building web apps in a small company.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/kitar.svg?style=social)](https://twitter.com/kitar)
+
 ##### Now
 
 - 🚀 I run [SlidePack](https://slidepack.io) at Qitar LLC.
-- ✨ I also develop and run various business apps and web services for our customers.
-- 💻 I maintain [kitar/laravel-dynamodb](https://github.com/kitar/laravel-dynamodb).
+- ✨ I develop AI powered apps and offer advice on leveraging AI to enhance our customers' businesses.
+- 💻 I also develop and run various business apps and web services for our customers.
+- 🌱 I maintain [kitar/laravel-dynamodb](https://github.com/kitar/laravel-dynamodb).
 
 ##### 今
 
 - 🚀 Qitar LLCで[SlidePack](https://slidepack.io)を運営しています
-- ✨ お客さん向けの業務システムやWebサービスも色々運営しています
-- 💻 [kitar/laravel-dynamodb](https://github.com/kitar/laravel-dynamodb) を書いてます
+- ✨ AIを活用したアプリの開発や、AIを業務活用するアドバイスを提供しています
+- 💻 お客さん向けの業務システムやWebサービスも色々運営しています
+- 🌱 [kitar/laravel-dynamodb](https://github.com/kitar/laravel-dynamodb) をメンテしています
 
 ##### Before
 
@@ -48,17 +52,3 @@
 - 💡 サービス開発は、自分自身や身近な人のためにはじめることが多いです
 - 🌱 GitHubで広がる世界のように、ビジネスでも、お互いに少しずつ支え合うことで豊かになっていく未来に貢献したいです
 - 🎺 ジャズトランペットを吹いています
-
-##### Twitter
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/kitar.svg?style=social)](https://twitter.com/kitar)
-
-##### What I've made
-
-- Remote User Testing Platform (2013)
-  - ![image](https://user-images.githubusercontent.com/157844/155881578-f34683c8-8c88-4c7b-a7e2-e44a96d28a22.png)
-- Self-service Remote User Testing Service (2015)
-  - ![image](https://user-images.githubusercontent.com/157844/155881644-e392f528-9947-484b-b1cb-55dc6a90442f.png)
-- SlidePack API (2020)
-  - ![image](https://user-images.githubusercontent.com/157844/155881732-11ddc50d-da35-4172-a51b-0b4933bfb087.png)
-  - ![image](https://user-images.githubusercontent.com/157844/155882221-ffaed3a8-32f7-44e4-9992-e985a8df9b15.png)
